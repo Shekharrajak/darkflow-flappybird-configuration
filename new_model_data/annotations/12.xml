@@ -1,7 +1,7 @@
 <annotation>
 	<folder>images</folder>
 	<filename>12.jpg</filename>
-	<path>/home/shekharrajak/Documents/githubRepos/personal/rl_games/flappybird-bot/images/12.jpg</path>
+	<path>/home/shekharrajak/Documents/githubRepos/personal/rl_games/tools/darkflow/new_model_data/images/12.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -17,10 +17,58 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>271</xmin>
-			<ymin>41</ymin>
-			<xmax>314</xmax>
-			<ymax>74</ymax>
+			<xmin>270</xmin>
+			<ymin>39</ymin>
+			<xmax>311</xmax>
+			<ymax>73</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>green-pipe-down</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>252</xmin>
+			<ymin>99</ymin>
+			<xmax>303</xmax>
+			<ymax>231</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>green-pipe-down</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>392</xmin>
+			<ymin>135</ymin>
+			<xmax>412</xmax>
+			<ymax>229</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>green-pipe-up</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>251</xmin>
+			<ymin>2</ymin>
+			<xmax>301</xmax>
+			<ymax>13</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>green-pipe-up</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>394</xmin>
+			<ymin>2</ymin>
+			<xmax>412</xmax>
+			<ymax>54</ymax>
 		</bndbox>
 	</object>
 </annotation>
