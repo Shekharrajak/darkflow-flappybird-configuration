@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>9.jpg</filename>
+	<path>/home/shekharrajak/Documents/githubRepos/personal/rl_games/flappybird-bot/images/9.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>810</width>
+		<height>475</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>flappybird</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>288</xmin>
+			<ymin>207</ymin>
+			<xmax>327</xmax>
+			<ymax>244</ymax>
+		</bndbox>
+	</object>
+</annotation>
